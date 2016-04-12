@@ -2,3 +2,4 @@ Hello!
 This is my second line.
 I have a very boring Mars diary.
 Adding a line in Catie's copy.
+This line is added to Laura's copy
